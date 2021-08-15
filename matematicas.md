@@ -1,3 +1,4 @@
 Hola, esto es un fichero de lectura para nuestro repositorio
-Caracola
+Caracol
+a
 Esto es una modificación
