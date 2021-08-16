@@ -1,4 +1,5 @@
 Hola, esto es un fichero de lectura para nuestro repositorio
-Caracol
-a
-Esto es una modificación
+
+Esto es una modificación.
+
+Estoy trabajando en unos progresos muy chulos han sido retomados sin problemas mediante un stash.
