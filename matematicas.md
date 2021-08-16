@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 # Nuestro cliente es el mejor
+=======
+# Fichero de matemáticas
+>>>>>>> Stashed changes
 
 Hola, esto es un fichero de lectura para nuestro repositorio
 
